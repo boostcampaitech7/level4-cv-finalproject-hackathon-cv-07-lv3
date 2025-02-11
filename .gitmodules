@@ -1,0 +1,9 @@
+[submodule "AIMS-Front-End"]
+	path = AIMS-Front-End
+	url = https://github.com/mongsam2/AIMS-Front-End
+[submodule "AIMS-BACK-End"]
+	path = AIMS-BACK-End
+	url = https://github.com/mongsam2/AIMS-BACK-End
+[submodule "AIMS_Classifier"]
+	path = AIMS_Classifier
+	url = https://github.com/yeyechu/aims_classifier.git
