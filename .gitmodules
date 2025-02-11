@@ -1,6 +1,3 @@
-[submodule "AIMS-Front-End"]
-	path = AIMS-Front-End
-	url = https://github.com/mongsam2/AIMS-Front-End.git
 [submodule "AIMS-Back-End"]
 	path = AIMS-Back-End
 	url = https://github.com/mongsam2/AIMS-Back-End.git
