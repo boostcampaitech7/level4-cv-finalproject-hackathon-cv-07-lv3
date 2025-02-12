@@ -59,7 +59,7 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
 
 <br>
 
-## 4. 팀원소개
+## 4. 팀원소개 및 역할분배
 <table>
   <tr>
     <td align="center">
