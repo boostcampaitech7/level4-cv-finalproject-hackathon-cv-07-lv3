@@ -31,12 +31,30 @@
 | 실면접 시 서류 완독 시간 부족 평가 항목 기반 질문 생성 기능 필요 | 생기부 평가 항목 기반 면접 질문 자동 생성 기능 |
 | 연구 시간 부족! 빠른 채점을 위한 보조 도구 필요 | 논술 답안 추출 및 요약 기능 규칙 기반 자동 채점 기능 |
 
+<br/>
+
 ### 문제 해결 방향
 Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
-- **서류 업로드 및 OCR**
-- **입학 서류 자동 분류**
-- **생활기록부 내용 요약 및 면접 질문 생성**
-- **논술 답안지 요약문 생성 및 규칙 기반 자동 평가**
+#### **1. 서류 업로드 및 OCR**
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/344c68bf-88a1-4c30-9705-32c11fcf7e8a"></p>
+
+#### **2. 입학 서류 자동 분류**
+- 문서분류기
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/4277ac1f-152c-4de1-9524-ad8f8f4907a1"></p>
+
+- 서류 적부적합
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/87e2c6ea-211f-4fcd-95be-68aa4640dd05"></p>
+
+#### **3. 생활기록부 내용 요약 및 면접 질문 생성**
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/9c415c6a-2c0e-472f-b177-60b2b2de039c"></p>
+
+#### **4. 논술 답안지 요약문 생성 및 규칙 기반 자동 평가**
+- 전처리 및 교정
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/a5ecf506-4a86-4b2d-acaa-12e3eb7469ac"></p>
+
+- 요약문 생성 및 규칙 기반 평가
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/2112cb0f-247e-4350-84af-f0a940fb0d66"></p>
+
 
 <br>
 
@@ -95,12 +113,12 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
   </tr>
 </table>
 
-- 김민솔 : 생기부 면접 질문 기능 구현, 영상 편집
-- 김예진 : 서류 업로드 기능 구현, 입학 서류 검토 기능 구현, PPT 제작
-- 배형준 : 생기부 프롬프팅 고도화, 영상 제작, 발표
-- 송재현 : 백엔드, 데이터베이스
-- 이재효 : 프론트엔드, 생기부 요약 기능 구현, 영상 제작
-- 차성연 : UI 디자인, 논술 기능 구현, 랩업리포트 작성
+- **김민솔** : 생기부 면접 질문 기능 구현, 영상 편집
+- **김예진** : 서류 업로드 기능 구현, 입학 서류 검토 기능 구현, PPT 제작
+- **배형준** : 생기부 프롬프팅 고도화, 영상 제작, 발표
+- **송재현** : 백엔드, 데이터베이스
+- **이재효** : 프론트엔드, 생기부 요약 기능 구현, 영상 제작
+- **차성연** : UI 디자인, 논술 기능 구현, 랩업리포트 작성
 
 <br/>
 
@@ -116,9 +134,11 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
 
 <br/>
 
+<br/>
+
 
 ## 7. 발표자료 및 랩업리포트
 
-- [발표자료](https://www.canva.com/design/DAGeSfDEtqA/xUDUK7duDaZQHo8sAlvMTA/edit?utm_content=DAGeSfDEtqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (링크)
+- [발표자료](https://www.canva.com/design/DAGeSfDEtqA/7CaBUYudAD1WWYUqFpb_vQ/view?utm_content=DAGeSfDEtqA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf34fca6da4) (링크)
 
 - 랩업리포트 (추후업로드)
