@@ -1,6 +1,6 @@
 ## 프로젝트 소개 (AIMS)
 
-<img width="500" alt="result" src="https://github.com/user-attachments/assets/68a6e7e8-1e7c-42b5-bf9f-fb14b97a5b82">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/68a6e7e8-1e7c-42b5-bf9f-fb14b97a5b82">
 
 
 - 전국 대학의 입학 과정을 담당하는 입학사정관 및 교수들을 위해
@@ -13,7 +13,7 @@
 
 ## 주제 선정 배경
 
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/5f59529b-7ee9-4f3c-9b7e-fd1ac6b8575e">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/5f59529b-7ee9-4f3c-9b7e-fd1ac6b8575e">
 
 <br/>
 
@@ -21,18 +21,18 @@
 
 ### 문제 정의
 
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/a039e0c3-757c-455d-ab32-c64f1436871a">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/a039e0c3-757c-455d-ab32-c64f1436871a">
 
 
 ### 문제 해결 방향
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/0231837d-d859-4d5c-b455-11e7306487cf">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/0231837d-d859-4d5c-b455-11e7306487cf">
 
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/f9481272-a0e5-4d87-9794-2f9ab50c1299">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/f9481272-a0e5-4d87-9794-2f9ab50c1299">
 
 <br/>
 
 ## 프로젝트 기대효과
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/cf3d7e98-3377-47ed-bd7d-accdde629401">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/cf3d7e98-3377-47ed-bd7d-accdde629401">
 
 <br/>
 
@@ -45,23 +45,23 @@
 <br/>
 
 ## 타임라인
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/20e28be7-f0b2-4249-9836-d23530008120">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/20e28be7-f0b2-4249-9836-d23530008120">
 
 <br/>
 
 ## 주요 기능 소개
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/5787d27c-80c7-4f48-b96e-403187588145">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/5787d27c-80c7-4f48-b96e-403187588145">
 
 <br/>
 
 ## 시스템 아키텍쳐
-<img width="700" alt="result" src="https://github.com/user-attachments/assets/a1cb0223-7b13-472b-aa9b-fc85ccce53f1">
+<img width="100%" alt="result" src="https://github.com/user-attachments/assets/a1cb0223-7b13-472b-aa9b-fc85ccce53f1">
 
 <br/>
 
 
 ## 발표자료 및 랩업리포트
 
-[발표자료](https://www.canva.com/design/DAGeSfDEtqA/xUDUK7duDaZQHo8sAlvMTA/edit?utm_content=DAGeSfDEtqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (링크)
+- [발표자료](https://www.canva.com/design/DAGeSfDEtqA/xUDUK7duDaZQHo8sAlvMTA/edit?utm_content=DAGeSfDEtqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (링크)
 
-랩업리포트 (추후업로드)
+- 랩업리포트 (추후업로드)
