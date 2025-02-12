@@ -1,5 +1,5 @@
 <div align=center> 
-  <img width="17%" alt="result" src="https://github.com/user-attachments/assets/31e7fa7e-f7e3-40f3-bdd3-6b438c233447"> <br>
+  <img width="17%" alt="result" src="https://github.com/user-attachments/assets/af34adc8-fe57-494c-97cc-27543aed2a3d"> <br>
   <img width="20%" alt="result" src="https://github.com/user-attachments/assets/a549361c-41d1-44ee-8c49-b9292f4b13c5">
   <h2> AI 기반의 대학교 입학처 업무 자동화 및 의사 결정 지원 웹 서비스 </h2>
   전국 대학의 입학 과정을 담당하는 입학사정관 및 교수들을 위해<br>
@@ -7,6 +7,7 @@
   논술 답안을 요약하고 규칙 기반 평가를 자동 수행하는, <br>
   입학 업무 보조 시스템
 </div>
+
 
 <br>
 
@@ -50,7 +51,7 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
 
 #### **4. 논술 답안지 요약문 생성 및 규칙 기반 자동 평가**
 - 전처리 및 교정
-<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/a5ecf506-4a86-4b2d-acaa-12e3eb7469ac"></p>
+<p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/903d39e1-e687-4495-ad54-4c12ac985e04"></p>
 
 - 요약문 생성 및 규칙 기반 평가
 <p align="center"><img width="60%" alt="result" src="https://github.com/user-attachments/assets/2112cb0f-247e-4350-84af-f0a940fb0d66"></p>
@@ -86,27 +87,27 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
       <a href="https://github.com/kim-minsol">김민솔</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9a1d2899-0d7e-4295-9c73-39e33137c30a" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/9a1d2899-0d7e-4295-9c73-39e33137c30a" width="200" height="145"/>
       <br />
       <a href="https://github.com/yeyechu">김예진</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/740bbe37-5211-43ce-91b1-bffa84d6f8e7" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/740bbe37-5211-43ce-91b1-bffa84d6f8e7" width="200" height="145"/>
       <br />
       <a href="https://github.com/BaeHyungJoon">배형준</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b0e98476-cbf7-4aeb-89a1-cf30763c997b" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/b0e98476-cbf7-4aeb-89a1-cf30763c997b" width="200" height="145"/>
       <br />
       <a href="https://github.com/mongsam2">송재현</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/dae2813d-1af9-489a-b611-b62299589f5d" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/dae2813d-1af9-489a-b611-b62299589f5d" width="200" height="145"/>
       <br />
       <a href="https://github.com/jxxhyo">이재효</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/823c1087-b735-4265-a9be-609f1b7f3237" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/823c1087-b735-4265-a9be-609f1b7f3237" width="200" height="145"/>
       <br />
       <a href="https://github.com/MICHAA4">차성연</a>
     </td>
