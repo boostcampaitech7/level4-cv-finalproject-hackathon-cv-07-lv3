@@ -1,7 +1,7 @@
 <div align=center> 
   <img width="17%" alt="result" src="https://github.com/user-attachments/assets/31e7fa7e-f7e3-40f3-bdd3-6b438c233447"> <br>
   <img width="20%" alt="result" src="https://github.com/user-attachments/assets/a549361c-41d1-44ee-8c49-b9292f4b13c5">
-  <h1> AI 기반의 대학교 입학처 업무 자동화 및 의사 결정 지원 웹 서비스 </h1>
+  <h2> AI 기반의 대학교 입학처 업무 자동화 및 의사 결정 지원 웹 서비스 </h2>
   전국 대학의 입학 과정을 담당하는 입학사정관 및 교수들을 위해<br>
   입학 서류 등록과 확인 작업을 자동화하고,<br>
   논술 답안을 요약하고 규칙 기반 평가를 자동 수행하는, <br>
@@ -63,37 +63,44 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/51235bb8-bff2-4026-a2af-12e4eb78fe66" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/ba4050d9-674a-46b7-bf9f-35b0afaaf03d" width="200" height="150"/>
       <br />
       <a href="https://github.com/kim-minsol">김민솔</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ba0a59b9-88db-43a1-995c-977a85c3128f" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/9a1d2899-0d7e-4295-9c73-39e33137c30a" width="200" height="150"/>
       <br />
       <a href="https://github.com/yeyechu">김예진</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b9eee66f-51db-4dbb-b61f-f2ea12956da0" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/740bbe37-5211-43ce-91b1-bffa84d6f8e7" width="200" height="150"/>
       <br />
       <a href="https://github.com/BaeHyungJoon">배형준</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/72df8b46-718a-4471-b176-ba17e3887a77" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/b0e98476-cbf7-4aeb-89a1-cf30763c997b" width="200" height="150"/>
       <br />
       <a href="https://github.com/mongsam2">송재현</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7afc3745-190d-426c-8f69-5b47fce5c0e1" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/dae2813d-1af9-489a-b611-b62299589f5d" width="200" height="150"/>
       <br />
       <a href="https://github.com/jxxhyo">이재효</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/949fd85a-0a55-435b-8a36-20d98eac7ce4" width="200" height="150"/>
+      <img src="https://github.com/user-attachments/assets/823c1087-b735-4265-a9be-609f1b7f3237" width="200" height="150"/>
       <br />
       <a href="https://github.com/MICHAA4">차성연</a>
     </td>
   </tr>
 </table>
+
+- 김민솔 : 생기부 면접 질문 기능 구현, 영상 편집
+- 김예진 : 서류 업로드 기능 구현, 입학 서류 검토 기능 구현, PPT 제작
+- 배형준 : 생기부 프롬프팅 고도화, 영상 제작, 발표
+- 송재현 : 백엔드, 데이터베이스
+- 이재효 : 프론트엔드, 생기부 요약 기능 구현, 영상 제작
+- 차성연 : UI 디자인, 논술 기능 구현, 랩업리포트 작성
 
 <br/>
 
