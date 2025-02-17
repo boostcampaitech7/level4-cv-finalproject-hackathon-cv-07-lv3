@@ -142,4 +142,4 @@ Upstage OCR, Chat API를 활용한 문제 해결 및 기능 구현
 
 - [발표자료](https://www.canva.com/design/DAGeSfDEtqA/7CaBUYudAD1WWYUqFpb_vQ/view?utm_content=DAGeSfDEtqA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf34fca6da4) (링크)
 
-- 랩업리포트 (추후업로드)
+- [랩업리포트](https://www.notion.so/naver-boostcamp-cv-07/AIMS-19a14f1bea6d80b18ee6e2e409edfba3?pvs=25)
